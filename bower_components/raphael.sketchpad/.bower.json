@@ -1,0 +1,14 @@
+{
+  "name": "raphael.sketchpad",
+  "_cacheHeaders": {
+    "ETag": "W/\"1386e7-55e5-4b7a54bdb6940\"",
+    "Last-Modified": "Sun, 29 Jan 2012 07:01:17 GMT",
+    "Content-Type": "application/javascript"
+  },
+  "_release": "e-tag:W/\"1386e7-",
+  "main": "index.js",
+  "_source": "http://ianli.com/sketchpad/javascripts/raphael.sketchpad.js",
+  "_target": "*",
+  "_originalSource": "http://ianli.com/sketchpad/javascripts/raphael.sketchpad.js",
+  "_direct": true
+}

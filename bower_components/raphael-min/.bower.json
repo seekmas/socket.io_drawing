@@ -1,0 +1,14 @@
+{
+  "name": "raphael-min",
+  "_cacheHeaders": {
+    "ETag": "\"7f63ffb9097e23558bb9f60cf749d34396d67cc4\"",
+    "Content-Length": "91476",
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "_release": "e-tag:7f63ffb90",
+  "main": "index.js",
+  "_source": "http://github.com/DmitryBaranovskiy/raphael/raw/master/raphael-min.js",
+  "_target": "*",
+  "_originalSource": "http://github.com/DmitryBaranovskiy/raphael/raw/master/raphael-min.js",
+  "_direct": true
+}
