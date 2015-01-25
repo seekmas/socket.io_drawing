@@ -23,6 +23,6 @@ io.on('connection' , function(socket){
 
 });
 
-http.listen('12138' , function(){
-    console.log('server start at :12138');
+http.listen('888' , function(){
+    console.log('server start at : 0.0.0.0:888');
 });
